@@ -1,3 +1,2 @@
-Migraine Level: Moderate
-
 coursework
+database design for a tutoring service.
